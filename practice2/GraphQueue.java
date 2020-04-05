@@ -1,9 +1,9 @@
 package com.controller.tree;
 
-public class MyQueue {
+public class GraphQueue {
 
 	private int[] elements;
-	public MyQueue() {
+	public GraphQueue() {
 		elements=new int[0];
 	}
 
